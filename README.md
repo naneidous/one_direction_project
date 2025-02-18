@@ -24,4 +24,4 @@ Este projeto tem como objetivo fornecer informações sobre os álbuns e integra
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://naneidous.github.io/one_direction_project/
+ https://naneidous.github.io/one_direction_project/
